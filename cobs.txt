@@ -1,3 +1,0 @@
-Test
-
-printf("Hi, It's Cobs");
